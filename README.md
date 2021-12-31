@@ -8,4 +8,5 @@
  
  * Создать папку на вашем компьютере и переместить все файлы проекта туда
  * Установить библиотки: `aiogram.utils, handlers, pars, create_bot, base` - для main.py ![alt tag](https://sun9-21.userapi.com/impg/EmhRlHmeD0SBCAevNJKsP1rmAQO87vCfKh-8Wg/uhsgWzm8hXQ.jpg?size=700x312&quality=96&sign=22eef45ea3daf3698b7f91b9f11065a3&type=album)
+ * * Установить библиотки: `aiogram, aiogram.dispatcher, aiogram.contrib.fsm_storage.memory` - для create_bot.py ![alt tag](https://sun9-12.userapi.com/impg/GxDqlLenTapgWwudxzqE9YloY3doF-i-nnHD9w/lTEj3HQfTFc.jpg?size=1132x194&quality=96&sign=59213242b3a158f4cf9c80eff6f65fb0&type=album)
  * Открыть файл `main.py` 
