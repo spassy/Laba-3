@@ -7,5 +7,5 @@
 *Для запуска проекта необходимо:*
  
  * Создать папку на вашем компьютере и переместить все файлы проекта туда
- * Установить библиотки: `aiogram.utils, handlers, pars, create_bot, base` - для main.py ![alt text](screenshots/Снимок экрана 2021-12-31 в 15.21.38.png "Библиотеки для main")
+ * Установить библиотки: `aiogram.utils, handlers, pars, create_bot, base` - для main.py ![alt tag](https://sun9-21.userapi.com/impg/EmhRlHmeD0SBCAevNJKsP1rmAQO87vCfKh-8Wg/uhsgWzm8hXQ.jpg?size=700x312&quality=96&sign=22eef45ea3daf3698b7f91b9f11065a3&type=album)
  * Открыть файл `main.py` 
