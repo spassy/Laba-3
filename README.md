@@ -21,3 +21,4 @@
  *  Установить библиотки: `keyboards.cl` - для init.py в папке keyboards![alt tag](https://sun9-57.userapi.com/impg/t8h-zZSqCGs7hagd3KdNQUVkpNirOAWUhVG_0g/a68KRM4N_TI.jpg?size=704x88&quality=96&sign=1b8276c1dc3ccd675fb1325e8a0c6b89&type=album)
  *  Установить библиотки: `aiogram.types` - для cl.py ![alt tag](https://sun9-13.userapi.com/impg/Lw5_SyWuogrfUZmiphkvizJYtVxT82C6UIV_Og/rKF-A8dbOww.jpg?size=1280x60&quality=96&sign=395b354f8227e66c78f7d9679d5a7ce3&type=album)
  * Открыть файл `main.py` 
+ * Запустить файл `main.py`
